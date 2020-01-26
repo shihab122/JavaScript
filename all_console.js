@@ -1,0 +1,11 @@
+console.table({ a: 1, b: 1 });
+console.error('This is some error!');
+console.warn('This is warning!');
+console.time('Hello');
+console.log('Hello World!');
+console.log('Hello World!');
+console.log('Hello World!');
+console.log('Hello World!');
+console.log('Hello World!');
+console.log('Hello World!');
+console.timeEnd('Hello');
